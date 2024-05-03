@@ -53,8 +53,9 @@ This project was created by [Himanshusekharsahoo]. It utilizes the following tec
 
 - HTML5
 - CSS3
+- SCSS
 - JavaScript
-- [Weather API]
+- Weather API
 
 ## License
 
